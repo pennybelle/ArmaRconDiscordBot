@@ -1,6 +1,6 @@
 bec_rcon @ git+https://github.com/Yoshi-E/Python-BEC-RCon@master#bec_rcon>=0.2.0
 discord>=2.0.0
-discord.py>=2.0.0
+py-cord>=2.5.0
 geoip2>=4.6.0
 packaging>=19.0
 prettytable>=0.7.2
